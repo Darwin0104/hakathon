@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "66b27a3cd541a250404781dc"
+  },
+  "categoria": "Administrador",
+  "nombre": "Alice",
+  "apellido": "Johnson",
+  "nickname": "alicej",
+  "email": "alice.johnson@example.com",
+  "telefono": "1234567890",
+  "descuento": 20.5,
+  "tarjeta": [
+    {
+      "numero": "1111222233334444",
+      "codigo_usuario": "1658979",
+      "fecha_expedicion": {
+        "$date": "2022-01-15T00:00:00.000Z"
+      },
+      "estado": "activo"
+    },
+    {
+      "numero": "1111222233334444",
+      "codigo_usuario": "1658977",
+      "fecha_expedicion": {
+        "$date": "2020-03-20T00:00:00.000Z"
+      },
+      "estado": "bloqueado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b27a3cd541a250404781dd"
+  },
+  "categoria": "Usuario Estándar",
+  "nombre": "Jane",
+  "apellido": "Smith",
+  "nickname": "janesmith",
+  "email": "jane.smith@example.com",
+  "telefono": "0987654321",
+  "descuento": 30.45,
+  "tarjeta": [
+    {
+      "numero": "6543210987654321",
+      "codigo_usuario": "1658976",
+      "fecha_expedicion": {
+        "$date": "2021-11-25T00:00:00.000Z"
+      },
+      "estado": "inactivo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b27a3cd541a250404781de"
+  },
+  "categoria": "Usuario Estándar",
+  "nombre": "John",
+  "apellido": "Doe",
+  "nickname": "johndoe",
+  "email": "john.doe@example.com",
+  "telefono": "1234567890",
+  "descuento": 45.67,
+  "tarjeta": [
+    {
+      "numero": "1234567890123456",
+      "codigo_usuario": "1658975",
+      "fecha_expedicion": {
+        "$date": "2022-01-15T00:00:00.000Z"
+      },
+      "estado": "activo"
+    },
+    {
+      "numero": "1234567890123456",
+      "codigo_usuario": "1658974",
+      "fecha_expedicion": {
+        "$date": "2020-03-20T00:00:00.000Z"
+      },
+      "estado": "bloqueado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b27aa1c1db836329a7b717"
+  },
+  "nombre": "Kelly",
+  "apellido": "Lopez",
+  "nickname": "kelilopz",
+  "email": "kelilopz@example.com",
+  "telefono": "3052288509",
+  "contrasena": "kelilopz1",
+  "categoria": "Administrador",
+  "descuento": 20,
+  "tarjeta": []
+},
+{
+  "_id": {
+    "$oid": "66b28a8c8a346cb8e8f9b218"
+  },
+  "nombre": "Karen",
+  "apellido": "Lopez",
+  "nickname": "karen1",
+  "email": "karen@example.com",
+  "telefono": "3052388509",
+  "contrasena": "karen1",
+  "categoria": "Administrador",
+  "descuento": 20,
+  "tarjeta": []
+},
+{
+  "_id": {
+    "$oid": "66b28b82eb84fddf98707d5c"
+  },
+  "nombre": "Miguel",
+  "apellido": "Lopez",
+  "nickname": "Miguel",
+  "email": "miguel@example.com",
+  "telefono": "3022388509",
+  "contrasena": "Miguel",
+  "categoria": "Usuario Estándar",
+  "descuento": 30,
+  "tarjeta": []
+},
+{
+  "_id": {
+    "$oid": "66b28bc85d478ba080d0ff95"
+  },
+  "nombre": "Juan",
+  "apellido": "Lopez",
+  "nickname": "Juan1",
+  "email": "juan@example.com",
+  "telefono": "3092388509",
+  "contrasena": "juan1",
+  "categoria": "Administrador",
+  "descuento": 45,
+  "tarjeta": []
+}]
