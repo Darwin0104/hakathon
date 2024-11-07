@@ -1,5 +1,5 @@
 
-import Barra from './components/Barra/Barra'
+import Barra from './components/Campers/Campers'
 
 function App() {
 return(
