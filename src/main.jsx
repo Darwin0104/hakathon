@@ -4,8 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './index.css';
 import Login from './components/login/login.jsx';
 import Register from './components/register/register.jsx';
-import LandingPage from './components/landingPage/landingPage.jsx';
-import Home from './components/home/home.jsx';
+import Home from './components/Home/Inicio.jsx';
 import Campers from './components/Campers/Campers.jsx';
 import Usuarios from './components/Usuarios/Usuarios.jsx';
 import Grupos from './components/Grupos/Grupos.jsx';
@@ -25,12 +24,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         {/* Página de registro de usuarios */}
         <Route path="/register" element={<Register />} />
 
-        {/* Página principal de la aplicación */}
-        <Route path="/" element={<LandingPage />} />
-
-        {/* Rutas Protegidas */}
-        <Route element={<ProtectedRoute />} >
-
           {/* Inicio (Página de bienvenida después del inicio de sesión) */}
           <Route path="/home" element={<Home />} />
 
@@ -40,7 +33,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="/grupos" element={<Grupos />} />
           <Route path="/horarios" element={<Horarios />} />
           <Route path="/salones" element={<Salones />} />
-        </Route>
+        
       </Routes>
     </Router>
   </React.StrictMode>
