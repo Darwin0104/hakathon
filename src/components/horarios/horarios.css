@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; 
+}
+
+.contenedor {
+    margin: 1em;
+    display: grid;
+    grid-template-columns: 20% auto;
+    overflow: hidden;
+    box-shadow: 10px 20px 200px black;
+}
+
+.logo img {
+    width: 16vw; 
+}
+
+
+.nav {
+    height: 94vh;
+    width: 100%;
+    background-color: rgb(21, 32, 49);
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left:0px;
+    margin: 0;
+}
+
+.nav ul li {
+    list-style: none;
+    display: flex;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+.sectionPerfil ul li{
+    text-decoration: none;
+    display: none;
+    align-items: center;
+    /* color: #fff; */
+}
+
+h3 {
+    margin: 0;
+    font-size: 1.2em;
+    padding-left: 0.5em; 
+}
+.menu-item {
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.menu-item:hover {
+    background-color: #444;
+  }
+  
+.menu-item.active {
+    background: linear-gradient(to left, #333, #333 50%, #eee 75%, #333 90%);
+  }
+#buscadorHeader {
+    display: grid;
+    place-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em; 
+}
+
+.seccions {
+    background-color: gray;
+    border: 1px solid black;
+    padding: 2.2em; 
+}
+
+.contenedor0 {
+    display: grid;
+    /* grid-template-rows: 35% 23% 42%;  */
+    background-color: rgb(1, 1, 14);
+    
+}
+.grande{
+    height: 90vh;
+    display: grid;
+    grid-template-rows: 15% auto;
+}
+
+#bodyContenedorGrande {
+    display: grid;
+    grid-template-rows: 15% 43% 42%; 
+    gap: 1em; 
+}
+
+.uno {
+    display: grid;
+    grid-template-columns: 35% 23% 42%;
+    padding: 1rem;
+    padding-right: 3rem;
+    gap: 1em;
+}
+
+@media (max-width: 768px) {
+    .contenedor {
+        grid-template-columns: 1fr;
+    }
+
+    .nav {
+        height: auto;
+    }
+}

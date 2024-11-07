@@ -10,6 +10,7 @@ import Usuarios from './components/Usuarios/Usuarios.jsx';
 import Grupos from './components/Grupos/Grupos.jsx';
 import Horarios from './components/horarios/horarios.jsx';
 import Salones from './components/Salones/Salones.jsx';
+import Cursos from './components/Cursos/Cursos.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -33,7 +34,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="/grupos" element={<Grupos />} />
           <Route path="/horarios" element={<Horarios />} />
           <Route path="/salones" element={<Salones />} />
-        
+          <Route path="/cursos" element={<Cursos />} />
       </Routes>
     </Router>
   </React.StrictMode>
