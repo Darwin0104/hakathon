@@ -1,3 +1,4 @@
+import { useNavigate } from 'react-router-dom'; // Importa el hook
 
 const Grupos = () => {
   return (

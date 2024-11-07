@@ -1,4 +1,4 @@
-import React from 'react'
+import { useNavigate } from 'react-router-dom'; // Importa el hook
 
 const register = () => {
   return (
