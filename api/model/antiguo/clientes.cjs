@@ -1,5 +1,5 @@
 const { ObjectId } = require('mongodb');
-const  connect = require('../index.cjs');
+const  connect = require('../../index.cjs');
 
 /**
  * *Clase Clientes para gestionar las operaciones relacionadas con los clientes.

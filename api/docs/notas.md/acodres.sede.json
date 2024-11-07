@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5e8"
+  },
+  "sede": "Talento Tech Medellín",
+  "direccion": "Calle 10 #50-30, Medellín",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e111b"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5e9"
+  },
+  "sede": "Talento Tech El Carmen de Viboral",
+  "direccion": "Carrera 12 #20-15, El Carmen de Viboral",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e111c"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5ea"
+  },
+  "sede": "Talento Tech Girardota",
+  "direccion": "Avenida 5 #10-24, Girardota",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e111d"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5eb"
+  },
+  "sede": "Talento Tech Sabaneta",
+  "direccion": "Calle 30 Sur #45-60, Sabaneta",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e111e"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5ec"
+  },
+  "sede": "Talento Tech Cúcuta - Teatro Zulima",
+  "direccion": "Calle 11 #1-10, Cúcuta",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e111f"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5ed"
+  },
+  "sede": "Talento Tech Bucaramanga",
+  "direccion": "Calle 34 #45-67, Bucaramanga",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1120"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5ee"
+  },
+  "sede": "Talento Tech Arauca",
+  "direccion": "Calle 20 #30-40, Arauca",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1121"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5ef"
+  },
+  "sede": "Talento Tech Leticia",
+  "direccion": "Carrera 10 #5-20, Leticia",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1122"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f0"
+  },
+  "sede": "Talento Tech Florencia",
+  "direccion": "Avenida 15 #8-22, Florencia",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1123"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f1"
+  },
+  "sede": "Talento Tech Yopal",
+  "direccion": "Calle 20 #15-18, Yopal",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1124"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f2"
+  },
+  "sede": "Talento Tech Inírida",
+  "direccion": "Carrera 7 #6-19, Inírida",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1125"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f3"
+  },
+  "sede": "Talento Tech San José del Guaviare",
+  "direccion": "Calle 12 #14-30, San José del Guaviare",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1126"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f4"
+  },
+  "sede": "Talento Tech Neiva",
+  "direccion": "Avenida 3 #4-50, Neiva",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1127"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f5"
+  },
+  "sede": "Talento Tech Villavicencio",
+  "direccion": "Carrera 18 #9-12, Villavicencio",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1128"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f6"
+  },
+  "sede": "Talento Tech Mocoa",
+  "direccion": "Calle 7 #5-22, Mocoa",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e1129"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f7"
+  },
+  "sede": "Talento Tech Ibagué",
+  "direccion": "Carrera 4 #21-17, Ibagué",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e112a"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f8"
+  },
+  "sede": "Talento Tech Mitú",
+  "direccion": "Calle 1 #2-18, Mitú",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e112b"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4c402824959c789cc5f9"
+  },
+  "sede": "Talento Tech Puerto Carreño",
+  "direccion": "Carrera 6 #5-20, Puerto Carreño",
+  "idCiudad": {
+    "$oid": "672c4b862d7627a3062e112c"
+  }
+}]

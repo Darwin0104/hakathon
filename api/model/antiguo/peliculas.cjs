@@ -1,5 +1,5 @@
 const { ObjectId } = require("mongodb");
-const Connect = require("../index.cjs");
+const Connect = require("../../index.cjs");
 
 module.exports = class Peliculas extends Connect {
     constructor() {

@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e111b"
+  },
+  "ciudad": "Medellín",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7428"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e111c"
+  },
+  "ciudad": "El Carmen de Viboral",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7428"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e111d"
+  },
+  "ciudad": "Girardota",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7428"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e111e"
+  },
+  "ciudad": "Sabaneta",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7428"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e111f"
+  },
+  "ciudad": "Cúcuta",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7429"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1120"
+  },
+  "ciudad": "Bucaramanga",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e742a"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1121"
+  },
+  "ciudad": "Arauca",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e742b"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1122"
+  },
+  "ciudad": "Leticia",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e742c"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1123"
+  },
+  "ciudad": "Florencia",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e742d"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1124"
+  },
+  "ciudad": "Yopal",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e742e"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1125"
+  },
+  "ciudad": "Inírida",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e742f"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1126"
+  },
+  "ciudad": "San José del Guaviare",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7430"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1127"
+  },
+  "ciudad": "Neiva",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7431"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1128"
+  },
+  "ciudad": "Villavicencio",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7432"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e1129"
+  },
+  "ciudad": "Mocoa",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7433"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e112a"
+  },
+  "ciudad": "Ibagué",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7434"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e112b"
+  },
+  "ciudad": "Mitú",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7435"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c4b862d7627a3062e112c"
+  },
+  "ciudad": "Puerto Carreño",
+  "idDepartamento": {
+    "$oid": "672c42fa9b5c72afa84e7436"
+  }
+}]

@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "672c70eeacf7d7c83a2a2942"
+  },
+  "modalidad": "presencial",
+  "disponibilidad": "mañana",
+  "horario": {
+    "$oid": "672c5e9ca4bd1989416df355"
+  },
+  "estudiantes": [
+    {
+      "$oid": "672c6d87acf7d7c83a2a2938"
+    },
+    {
+      "$oid": "672c6d87acf7d7c83a2a293b"
+    },
+    {
+      "$oid": "672c6d87acf7d7c83a2a293d"
+    },
+    {
+      "$oid": "672c6d87acf7d7c83a2a2940"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c70eeacf7d7c83a2a2943"
+  },
+  "modalidad": "presencial",
+  "disponibilidad": "tarde",
+  "horario": {
+    "$oid": "672c5e9ca4bd1989416df356"
+  },
+  "estudiantes": [
+    {
+      "$oid": "672c6d87acf7d7c83a2a2939"
+    },
+    {
+      "$oid": "672c6d87acf7d7c83a2a293c"
+    },
+    {
+      "$oid": "672c6d87acf7d7c83a2a293f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c70eeacf7d7c83a2a2944"
+  },
+  "modalidad": "presencial",
+  "disponibilidad": "noche",
+  "horario": {
+    "$oid": "672c5e9ca4bd1989416df357"
+  },
+  "estudiantes": [
+    {
+      "$oid": "672c6d87acf7d7c83a2a293a"
+    },
+    {
+      "$oid": "672c6d87acf7d7c83a2a293e"
+    },
+    {
+      "$oid": "672c6d87acf7d7c83a2a2941"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c70eeacf7d7c83a2a2945"
+  },
+  "modalidad": "virtual",
+  "disponibilidad": "noche",
+  "horario": {
+    "$oid": "672c5e9ca4bd1989416df359"
+  },
+  "estudiantes": [
+    {
+      "$oid": "672c6d87acf7d7c83a2a293f"
+    },
+    {
+      "$oid": "672c6d87acf7d7c83a2a2941"
+    }
+  ]
+}]

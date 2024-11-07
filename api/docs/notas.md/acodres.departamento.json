@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7428"
+  },
+  "nombre": "Antioquia"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7429"
+  },
+  "nombre": "Norte de Santander"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e742a"
+  },
+  "nombre": "Santander"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e742b"
+  },
+  "nombre": "Arauca"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e742c"
+  },
+  "nombre": "Amazonas"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e742d"
+  },
+  "nombre": "Caquetá"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e742e"
+  },
+  "nombre": "Casanare"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e742f"
+  },
+  "nombre": "Guainía"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7430"
+  },
+  "nombre": "Guaviare"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7431"
+  },
+  "nombre": "Huila"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7432"
+  },
+  "nombre": "Meta"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7433"
+  },
+  "nombre": "Putumayo"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7434"
+  },
+  "nombre": "Tolima"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7435"
+  },
+  "nombre": "Vaupés"
+},
+{
+  "_id": {
+    "$oid": "672c42fa9b5c72afa84e7436"
+  },
+  "nombre": "Vichada"
+}]

@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "672c67cb9107f94fa9eae6d0"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "cedula": 123456789,
+  "edad": 30,
+  "telefono": "1234567890",
+  "email": "juan.perez@example.com",
+  "horariosDisponibles": [
+    {
+      "$oid": "672c5e9ca4bd1989416df355"
+    },
+    {
+      "$oid": "672c5e9ca4bd1989416df359"
+    }
+  ],
+  "modalidad": "presencial",
+  "role": {
+    "$oid": "672c3cc6916435549c5e49c1"
+  },
+  "asignatura": {
+    "$oid": "672c4184a4bd1989416df34f"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c67cb9107f94fa9eae6d1"
+  },
+  "nombre": "Ana",
+  "apellido": "García",
+  "cedula": 987654321,
+  "edad": 27,
+  "telefono": "0987654321",
+  "email": "ana.garcia@example.com",
+  "horariosDisponibles": [
+    {
+      "$oid": "672c5e9ca4bd1989416df357"
+    }
+  ],
+  "modalidad": "virtual",
+  "role": {
+    "$oid": "672c3cc6916435549c5e49c2"
+  },
+  "asignatura": {
+    "$oid": "672c4184a4bd1989416df34f"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c67cb9107f94fa9eae6d2"
+  },
+  "nombre": "Carlos",
+  "apellido": "López",
+  "cedula": 456123789,
+  "edad": 35,
+  "telefono": "4561237890",
+  "email": "carlos.lopez@example.com",
+  "horariosDisponibles": [
+    {
+      "$oid": "672c5e9ca4bd1989416df356"
+    },
+    {
+      "$oid": "672c5e9ca4bd1989416df35a"
+    }
+  ],
+  "modalidad": "presencial",
+  "role": {
+    "$oid": "672c3cc6916435549c5e49c3"
+  },
+  "asignatura": {
+    "$oid": "672c4184a4bd1989416df34f"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c67cb9107f94fa9eae6d3"
+  },
+  "nombre": "Lucía",
+  "apellido": "Fernández",
+  "cedula": 741852963,
+  "edad": 24,
+  "telefono": "7418529630",
+  "email": "lucia.fernandez@example.com",
+  "horariosDisponibles": [
+    {
+      "$oid": "672c5e9ca4bd1989416df358"
+    },
+    {
+      "$oid": "672c5e9ca4bd1989416df357"
+    }
+  ],
+  "modalidad": "virtual",
+  "role": {
+    "$oid": "672c3cc6916435549c5e49c4"
+  },
+  "asignatura": {
+    "$oid": "672c4184a4bd1989416df34f"
+  }
+},
+{
+  "_id": {
+    "$oid": "672c67cb9107f94fa9eae6d4"
+  },
+  "nombre": "Roberto",
+  "apellido": "Martínez",
+  "cedula": 369258147,
+  "edad": 29,
+  "telefono": "3692581470",
+  "email": "roberto.martinez@example.com",
+  "horariosDisponibles": [
+    {
+      "$oid": "672c5e9ca4bd1989416df355"
+    },
+    {
+      "$oid": "672c5e9ca4bd1989416df359"
+    }
+  ],
+  "modalidad": "presencial",
+  "role": {
+    "$oid": "672c3cc6916435549c5e49c5"
+  },
+  "asignatura": {
+    "$oid": "672c4184a4bd1989416df34f"
+  }
+}]

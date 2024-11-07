@@ -1,0 +1,232 @@
+[{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a2938"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "edad": 30,
+  "cedula": 123456789,
+  "telefono": "1234567890",
+  "email": "juan.perez@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df34f"
+  },
+  "nickname": "juanp30",
+  "password": "passJuan123",
+  "disponibilidad": "mañana",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df34f"
+    },
+    {
+      "$oid": "672c4184a4bd1989416df351"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a2939"
+  },
+  "nombre": "Ana",
+  "apellido": "García",
+  "edad": 27,
+  "cedula": 987654321,
+  "telefono": "0987654321",
+  "email": "ana.garcia@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df350"
+  },
+  "nickname": "anagar",
+  "password": "AnaG12345",
+  "disponibilidad": "tarde",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df34f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a293a"
+  },
+  "nombre": "Carlos",
+  "apellido": "López",
+  "edad": 35,
+  "cedula": 456123789,
+  "telefono": "4561237890",
+  "email": "carlos.lopez@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df353"
+  },
+  "nickname": "clopez",
+  "password": "CarlosL123",
+  "disponibilidad": "noche",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df354"
+    },
+    {
+      "$oid": "672c4184a4bd1989416df352"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a293b"
+  },
+  "nombre": "Lucía",
+  "apellido": "Fernández",
+  "edad": 24,
+  "cedula": 741852963,
+  "telefono": "7418529630",
+  "email": "lucia.fernandez@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df354"
+  },
+  "nickname": "luciafer",
+  "password": "LuciaFer456",
+  "disponibilidad": "mañana",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df354"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a293c"
+  },
+  "nombre": "Roberto",
+  "apellido": "Martínez",
+  "edad": 29,
+  "cedula": 369258147,
+  "telefono": "3692581470",
+  "email": "roberto.martinez@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df34f"
+  },
+  "nickname": "robmart",
+  "password": "Rmartinez89",
+  "disponibilidad": "tarde",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df351"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a293d"
+  },
+  "nombre": "Marta",
+  "apellido": "Núñez",
+  "edad": 32,
+  "cedula": 852963741,
+  "telefono": "8529637412",
+  "email": "marta.nunez@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df351"
+  },
+  "nickname": "martanu",
+  "password": "Marta123",
+  "disponibilidad": "mañana",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df352"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a293e"
+  },
+  "nombre": "Felipe",
+  "apellido": "Gómez",
+  "edad": 26,
+  "cedula": 159753468,
+  "telefono": "1597534680",
+  "email": "felipe.gomez@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df352"
+  },
+  "nickname": "fegomez",
+  "password": "GomezFelipe22",
+  "disponibilidad": "noche",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df354"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a293f"
+  },
+  "nombre": "Laura",
+  "apellido": "González",
+  "edad": 28,
+  "cedula": 753159842,
+  "telefono": "7531598425",
+  "email": "laura.gonzalez@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df353"
+  },
+  "nickname": "lagonz",
+  "password": "LauraG456",
+  "disponibilidad": "tarde",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df34f"
+    },
+    {
+      "$oid": "672c4184a4bd1989416df350"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a2940"
+  },
+  "nombre": "David",
+  "apellido": "Ortiz",
+  "edad": 31,
+  "cedula": 951753258,
+  "telefono": "9517532584",
+  "email": "david.ortiz@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df350"
+  },
+  "nickname": "dortiz",
+  "password": "DavidO9876",
+  "disponibilidad": "mañana",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df354"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672c6d87acf7d7c83a2a2941"
+  },
+  "nombre": "Elena",
+  "apellido": "Morales",
+  "edad": 34,
+  "cedula": 852147963,
+  "telefono": "8521479631",
+  "email": "elena.morales@example.com",
+  "curso": {
+    "$oid": "672c4184a4bd1989416df354"
+  },
+  "nickname": "emorales",
+  "password": "ElenaM1234",
+  "disponibilidad": "noche",
+  "asignatura": [
+    {
+      "$oid": "672c4184a4bd1989416df351"
+    },
+    {
+      "$oid": "672c4184a4bd1989416df350"
+    }
+  ]
+}]

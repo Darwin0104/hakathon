@@ -1,4 +1,4 @@
-const connect = require('../index.cjs');
+const connect = require('../../index.cjs');
 const { ObjectId } = require("mongodb");
 
 module.exports = class Funciones extends connect {

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "672c3cc6916435549c5e49c1"
+  },
+  "role": "ejecutor técnico"
+},
+{
+  "_id": {
+    "$oid": "672c3cc6916435549c5e49c2"
+  },
+  "role": "ejecutor inglés"
+},
+{
+  "_id": {
+    "$oid": "672c3cc6916435549c5e49c3"
+  },
+  "role": "coordinador"
+},
+{
+  "_id": {
+    "$oid": "672c3cc6916435549c5e49c4"
+  },
+  "role": "mentor"
+},
+{
+  "_id": {
+    "$oid": "672c3cc6916435549c5e49c5"
+  },
+  "role": "monitor"
+}]

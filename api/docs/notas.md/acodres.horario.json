@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "672c5e9ca4bd1989416df355"
+  },
+  "horarios": "7 am a 1 pm",
+  "modalidad": "presencial",
+  "jornada": "mañana"
+},
+{
+  "_id": {
+    "$oid": "672c5e9ca4bd1989416df356"
+  },
+  "horarios": "1 pm a 7 pm",
+  "modalidad": "presencial",
+  "jornada": "tarde"
+},
+{
+  "_id": {
+    "$oid": "672c5e9ca4bd1989416df357"
+  },
+  "horarios": "7 pm a 10 pm",
+  "modalidad": "presencial",
+  "jornada": "noche"
+},
+{
+  "_id": {
+    "$oid": "672c5e9ca4bd1989416df358"
+  },
+  "horarios": "Lunes a viernes de 6 a 8 AM y sábado de 7 a 10 AM",
+  "modalidad": "presencial",
+  "jornada": "mañana"
+},
+{
+  "_id": {
+    "$oid": "672c5e9ca4bd1989416df359"
+  },
+  "horarios": "Lunes a viernes de 6 a 9 PM y sábado de 7 a 10 AM",
+  "modalidad": "virtual",
+  "jornada": "noche"
+},
+{
+  "_id": {
+    "$oid": "672c5e9ca4bd1989416df35a"
+  },
+  "horarios": "Lunes a viernes de 6 a 8 AM y sábado de 10 AM a 1 PM",
+  "modalidad": "presencial",
+  "jornada": "mañana"
+},
+{
+  "_id": {
+    "$oid": "672c5e9ca4bd1989416df35b"
+  },
+  "horarios": "Lunes a viernes de 6 a 9 PM y sábado de 10 AM a 1 PM",
+  "modalidad": "virtual",
+  "jornada": "noche"
+}]

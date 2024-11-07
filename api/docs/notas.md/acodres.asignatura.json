@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "672c4184a4bd1989416df34f"
+  },
+  "nombre": "Programación",
+  "descripcion": "El bootcamp de Programación te proporcionará habilidades esenciales para el desarrollo de software, desde la creación de aplicaciones web hasta la gestión de bases de datos."
+},
+{
+  "_id": {
+    "$oid": "672c4184a4bd1989416df350"
+  },
+  "nombre": "Inteligencia Artificial",
+  "descripcion": "El bootcamp de Inteligencia Artificial te sumergirá en el mundo de la IA, ofreciendo una comprensión profunda de las tecnologías de aprendizaje automático y procesamiento del lenguaje natural."
+},
+{
+  "_id": {
+    "$oid": "672c4184a4bd1989416df351"
+  },
+  "nombre": "Análisis de Datos",
+  "descripcion": "El bootcamp de Análisis de Datos te dotará de habilidades cruciales para extraer conocimientos significativos de grandes conjuntos de datos."
+},
+{
+  "_id": {
+    "$oid": "672c4184a4bd1989416df352"
+  },
+  "nombre": "Blockchain",
+  "descripcion": "El bootcamp de Blockchain te sumergirá en el fascinante mundo de la tecnología de bloques, ofreciendo una comprensión profunda de las transacciones seguras y descentralizadas."
+},
+{
+  "_id": {
+    "$oid": "672c4184a4bd1989416df353"
+  },
+  "nombre": "Arquitectura en la Nube",
+  "descripcion": "El Bootcamp de formación en Arquitectura en la Nube te preparará para diseñar y gestionar entornos tecnológicos escalables y eficientes en la nube."
+},
+{
+  "_id": {
+    "$oid": "672c4184a4bd1989416df354"
+  },
+  "nombre": "Ciberseguridad",
+  "descripcion": "El bootcamp de Ciberseguridad te capacitará sobre protección de redes, manejo de incidentes, criptografía y defensa contra ciberataques para asegurar sistemas informáticos eficazmente."
+}]
