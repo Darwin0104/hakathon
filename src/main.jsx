@@ -2,10 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './index.css';
-
 import Login from './components/login/login.jsx';
 import Register from './components/register/register.jsx';
-
 import LandingPage from './components/landingPage/landingPage.jsx';
 import Home from './components/home/home.jsx';
 import Campers from './components/Campers/Campers.jsx';

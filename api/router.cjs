@@ -3,7 +3,7 @@ const router = express.Router();
 const funcionController = require('./controllers/funcionesController.cjs');
 const funcionesValidator = require('./validators/funcionesValidator.cjs');
 const clientesController = require('./controllers/clientesController.cjs');
-const clientesValidator = require('./validators/clientesValidator.cjs')
+const clientesValidator = require('./validators/usuarioValidator.cjs')
 const peliculasController = require('./controllers/peliculasController.cjs');
 const peliculasValidator = require('./validators/peliculasValidator.cjs');
 
