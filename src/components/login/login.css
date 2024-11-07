@@ -1,0 +1,88 @@
+.login-container {
+  font-family: var(--font);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Cambié 'stretch' a 'center' para mejor alineación */
+  height: 100vh;
+  background-image: url('../../assets/backgroundLogin.svg');
+  background-size: cover;
+  background-position: center;
+  color: var(--black); /* Usa la variable de color */
+  text-align: center;
+  padding: 50px;
+}
+
+.login-container h2 {
+  font-size: 25px;
+  font-weight: 300; /* Cambié a un valor más ligero */
+  color: var(--black); /* Usa la variable de color */
+  margin-top: 50px;
+}
+
+.login-container h2 span {
+  font-weight: bold;
+  color: var(--black); /* Usa la variable de color */
+}
+
+.login-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 40px;
+}
+
+.login-btn_Google-btn, .login-btn_github-btn, .login-btn_Discord-btn{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  height: 50px; /* Mantengo el tamaño, pero revisa para el botón Ruraq */
+  padding: 10px 15px;
+  border: none;
+  border-radius: var(--radius); /* Usa la variable de borde */
+  font-size: 16px;
+  color: var(--black); /* Usa la variable de color */
+  background: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-weight: bold;
+}
+
+.login-btn_Google-btn img, .login-btn_Ruraq-btn img {
+  width: 35px;
+  height: 35px;
+  margin-right: 15px;
+}
+
+.login-btn_github-btn img{
+  width: 35px;
+  height: 35px;
+  margin-right: 5px;
+}
+
+.login-btn_Discord-btn img{
+  width: 34px;
+  height: 36px;
+  margin-right: 20px;
+}
+
+.login-btn_Ruraq-btn {
+  height: 70px; /* Ajusta según lo que necesites */
+  line-height: 25px; /* Verifica que este valor sea adecuado */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  padding: 10px 25px;
+  border: none;
+  border-radius: var(--radius); /* Usa la variable de borde */
+  font-size: 16px;
+  color: var(--black); /* Usa la variable de color */
+  background: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-weight: bold;
+}

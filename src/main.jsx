@@ -1,10 +1,49 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.jsx'
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import './index.css';
 
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-)
+import Login from './components/login/login.jsx';
+import Register from './components/register/register.jsx';
+
+import LandingPage from './components/landingPage/landingPage.jsx';
+import Home from './components/home/home.jsx';
+import Campers from './components/Campers/Campers.jsx';
+import Usuarios from './components/Usuarios/Usuarios.jsx';
+import Grupos from './components/Grupos/Grupos.jsx';
+import Horarios from './components/horarios/horarios.jsx';
+import Salones from './components/Salones/Salones.jsx';
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <Router>
+      <Routes>
+
+        {/* Rutas Públicas */}
+        
+        {/* Página de inicio de sesión */}
+        <Route path="/login" element={<Login />} />
+
+        {/* Página de registro de usuarios */}
+        <Route path="/register" element={<Register />} />
+
+        {/* Página principal de la aplicación */}
+        <Route path="/" element={<LandingPage />} />
+
+        {/* Rutas Protegidas */}
+        <Route element={<ProtectedRoute />} >
+
+          {/* Inicio (Página de bienvenida después del inicio de sesión) */}
+          <Route path="/home" element={<Home />} />
+
+          {/* Rutas para secciones principales */}
+          <Route path="/campers" element={<Campers />} />
+          <Route path="/usuarios" element={<Usuarios />} />
+          <Route path="/grupos" element={<Grupos />} />
+          <Route path="/horarios" element={<Horarios />} />
+          <Route path="/salones" element={<Salones />} />
+        </Route>
+      </Routes>
+    </Router>
+  </React.StrictMode>
+);
